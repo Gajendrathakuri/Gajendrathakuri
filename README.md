@@ -50,8 +50,6 @@ Worked on healthcare software using **ASP.NET Core, C#, Angular, and SQL Server*
 * Used Entity Framework Core for database operations
 * Debugged and fixed application issues
 * Worked with SQL Server
-
-* 
 ---
 
 ## 🛠️ Skills
